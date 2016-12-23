@@ -172,7 +172,7 @@ public class Funcaoes {
             
         }//fin for
         double retorno = Double.valueOf((String)calculo.get(0));
-       // calculo.clear();
+       // calculo.clear();r
         return retorno;
     }
 
